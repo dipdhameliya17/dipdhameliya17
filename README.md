@@ -12,21 +12,21 @@
   <a href="mailto:yourmail@example.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" width="40" height="40"/>
   </a>
-  <span> yourmail@example.com </span>
+  <span> dipdhameliya17@gmail.com </span>
 
   <!-- GitHub -->
   <a href="https://github.com/YourUsername" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
          alt="GitHub" width="40" height="40"/>
   </a>
-  <span> YourUsername </span>
+  <span> dipdhameliya17 </span>
 
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/YourProfileName/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" 
          alt="LinkedIn" width="40" height="40"/>
   </a>
-  <span> YourProfileName </span>
+  <span> Dip Dhameliya </span>
 </p>
 
 ---
