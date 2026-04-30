@@ -10,37 +10,29 @@
 
 <table align="center">
   <tr>
-    <!-- Email -->
     <td align="center">
       <a href="mailto:dipdhameliya17@gmail.com" target="_blank">
         <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" width="40" height="40"/>
+        <br/>
+        dipdhameliya17@gmail.com
       </a>
-      <br/>
-      dipdhameliya17@gmail.com
     </td>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://github.com/dipdhameliya17" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
              alt="GitHub" width="40" height="40"/>
+        <br/>
+        dipdhameliya17
       </a>
-      dipdhameliya17
     </td>
-      <br/>
+  </tr>
+  <tr>
     <td align="center">
       <a href="https://www.linkedin.com/in/DipDhameliya/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" 
-             alt="LinkedIn" width="40" height="40"/>
-      </a>
-      <br/>
-      Dip Dhameliya
-    </td>
-             
-    
-
-
-  </tr>
-</table>
-
+             alt="LinkedIn" width="40" height="40
 
 ---
 
