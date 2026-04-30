@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]
+# 👋 Hello i am dip dhameliya
 
 🎓 Student at **LJ University**  
 💻 Passionate about coding, learning, and building projects  
