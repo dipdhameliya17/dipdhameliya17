@@ -23,8 +23,7 @@
 
   <!-- LinkedIn -->
    <a href="https://www.linkedin.com/in/YourProfileName/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linkedin.svg" 
-         alt="LinkedIn" width="40" height="40"/>
+    <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
   <span> Dip Dhameliya </span>
 </p>
