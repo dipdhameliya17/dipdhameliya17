@@ -18,18 +18,14 @@
       <br/>
       dipdhameliya17@gmail.com
     </td>
-
-    <!-- GitHub -->
     <td align="center">
       <a href="https://github.com/dipdhameliya17" target="_blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
              alt="GitHub" width="40" height="40"/>
       </a>
-      <br/>
       dipdhameliya17
     </td>
-
-    <!-- LinkedIn -->
+      <br/>
     <td align="center">
       <a href="https://www.linkedin.com/in/DipDhameliya/" target="_blank">
         <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" 
@@ -38,6 +34,10 @@
       <br/>
       Dip Dhameliya
     </td>
+             
+    
+
+
   </tr>
 </table>
 
