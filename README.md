@@ -7,26 +7,35 @@
 
 ## 🤝 Connect with Me
 
-<p align="left">
+<p align="center">
   <!-- Email -->
-  <a href="mailto:yourmail@example.com" target="_blank">
+  <a href="mailto:dipdhameliya17@gmail.com" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/000000/new-post.png" alt="Email" width="40" height="40"/>
+    <br/>
+    <span>dipdhameliya17@gmail.com</span>
   </a>
-  <span> dipdhameliya17@gmail.com </span>
+</p>
 
+<p align="center">
   <!-- GitHub -->
-  <a href="https://github.com/YourUsername" target="_blank">
+  <a href="https://github.com/dipdhameliya17" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" 
          alt="GitHub" width="40" height="40"/>
+    <br/>
+    <span>dipdhameliya17</span>
   </a>
-  <span> dipdhameliya17 </span>
-
-  <!-- LinkedIn -->
-   <a href="https://www.linkedin.com/in/YourProfileName/" target="_blank">
-    <img align="left" alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" width="40" height="40"/>
-  </a>
-  <span> Dip Dhameliya </span>
 </p>
+
+<p align="center">
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/DipDhameliya/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" 
+         alt="LinkedIn" width="40" height="40"/>
+    <br/>
+    <span>Dip Dhameliya</span>
+  </a>
+</p>
+
 
 ---
 
